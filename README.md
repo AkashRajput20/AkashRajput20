@@ -1,16 +1,17 @@
-## Hi there 👋
+## Akash Rajput
 
-<!--
-**AkashRajput20/AkashRajput20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT infrastructure engineer, 7 years. Currently a Microsoft 365
+Global Admin — Entra ID, SharePoint, Power Automate, access
+management and tenant operations.
 
-Here are some ideas to get you started:
+Moving into Azure and DevOps engineering. Learning in public here.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Now:** Linux fundamentals, Git workflow, Python automation
+against the Microsoft Graph API
+
+**Next:** Azure (AZ-104), Terraform, Docker, CI/CD pipelines
+
+**Repos:** [Devops](https://github.com/AkashRajput20/Devops) —
+practice work and projects as I go
+
+[LinkedIn](www.linkedin.com/in/akash-rajput-4149a82b3)
