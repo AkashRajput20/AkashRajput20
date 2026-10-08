@@ -1,17 +1,14 @@
 ## Akash Rajput
 
-IT infrastructure engineer, 7 years. Currently a Microsoft 365
-Global Admin — Entra ID, SharePoint, Power Automate, access
-management and tenant operations.
+IT infrastructure engineer with 7 years of experience. Currently a Microsoft 365 Global Admin: Entra ID, SharePoint, Power Automate, access management and tenant operations.
 
-Moving into Azure and DevOps engineering. Learning in public here.
+Moving into Azure and DevOps engineering, and sharing my projects here as I build them.
 
-**Now:** Linux fundamentals, Git workflow, Python automation
-against the Microsoft Graph API
+**Now:** Linux and Bash, Git workflow, PowerShell 7 and Python automation with the Microsoft Graph API
 
-**Next:** Azure (AZ-104), Terraform, Docker, CI/CD pipelines
+**Next:** Azure (AZ-104, target December 2026), Terraform, Docker, CI/CD pipelines
 
-**Repos:**  —
-practice work and projects as I go
+### Projects
+- [homelab](https://github.com/<username>/homelab) — hardened Ubuntu server: SSH key-only access, ufw firewall, Nginx, and nightly backups with Bash and cron
 
-[LinkedIn](www.linkedin.com/in/akash-rajput-4149a82b3)
+[LinkedIn](https://www.linkedin.com/in/<your-profile>)
