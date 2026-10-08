@@ -11,7 +11,7 @@ against the Microsoft Graph API
 
 **Next:** Azure (AZ-104), Terraform, Docker, CI/CD pipelines
 
-**Repos:** [Devops](https://github.com/AkashRajput20/Devops) —
+**Repos:**  —
 practice work and projects as I go
 
 [LinkedIn](www.linkedin.com/in/akash-rajput-4149a82b3)
